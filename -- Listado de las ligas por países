@@ -1,0 +1,16 @@
+-- Listado de las ligas por países
+-- España	ES
+-- Francia	FR
+-- Italia	IT
+-- Reino Unido GB
+
+http://www.resultados-futbol.com/scripts/api/api.php?tz=Europe/London&format=&req=leagues&key=28521c6f226d4eaba171ab9b5ba2d8a5&country=GB
+
+http://www.resultados-futbol.com/scripts/api/api.php?tz=Europe/London&format=&req=leagues&key=28521c6f226d4eaba171ab9b5ba2d8a5&country=ES
+
+
+-- Partidos de una competición
+http://www.resultados-futbol.com/scripts/api/api.php?tz=Europe/London&format=&req=matchs&key=28521c6f226d4eaba171ab9b5ba2d8a5&round=25&league=3&group=all&year=2016
+
+http://www.resultados-futbol.com/scripts/api/api.php?tz=Europe/London&format=&req=matchs&key=28521c6f226d4eaba171ab9b5ba2d8a5&round=25&league=4&group=all&year=2016
+
